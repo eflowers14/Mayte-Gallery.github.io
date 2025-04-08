@@ -28,13 +28,10 @@ img{
   flex-direction: row;
 }
 .title{
+  display: block;
   flex-direction: row;
   grid-area: title;
   text-align: center;
-  padding: 10px;
-  margin: auto 25px;
-  width: 200px;
-  height: 250px;
+  width: 150px;
   background-color: cadetblue;
-  font-size: larger;
 }
