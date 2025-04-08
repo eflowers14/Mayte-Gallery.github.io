@@ -35,7 +35,7 @@ img{
   background-color: cadetblue;
   max-width: 150px;
 }
-.title span{
+.title > span{
   display: block;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 15px;
