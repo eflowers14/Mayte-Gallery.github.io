@@ -25,7 +25,7 @@ img{
   display: grid;
   grid-template-areas: 
   "img title";
-  flex-direction: row;
+  max-width: 200px;
 }
 .title{
   display: block;
