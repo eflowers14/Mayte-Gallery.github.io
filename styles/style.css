@@ -19,6 +19,7 @@ h1{
 
 .paint-img {
   width:  100%;
+  min-width: 120px;
   height: auto;
   flex: 2 1 130px; /* La imagen ocupará al menos 130px o más si hay espacio */
   border-bottom-left-radius: 8px;
