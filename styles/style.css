@@ -28,7 +28,7 @@ h1{
 
 .paint-description {
   flex: 1 1 80px; /* El texto ocupará al menos 80px o más si hay espacio */
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #fff;
   background-color: blue;
   padding: 15px;
