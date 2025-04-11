@@ -20,13 +20,13 @@ h1{
 .paint-img {
   width:  100%;
   height: auto;
-  flex: 1 1 100px; /* La imagen ocupará al menos 300px o más si hay espacio */
+  flex: 2 1 130px; /* La imagen ocupará al menos 130px o más si hay espacio */
   border-bottom-left-radius: 8px;
   border-top-left-radius: 8px
 }
 
 .paint-description {
-  flex: 1 1 80px; /* El texto ocupará al menos 100px o más si hay espacio */
+  flex: 1 1 80px; /* El texto ocupará al menos 80px o más si hay espacio */
   font-size: 1.2rem;
   color: #fff;
   background-color: blue;
